@@ -5,14 +5,14 @@ With Eagle Api, we can retrieve informations about user invitations, ... (this i
 To use Eagle Api, we have to buy it on https://eagle-bot.ml/eagleapi/
 
 
-##installation
+## installation
 
 copy repository in the folder of your project
 
 
-##Documentation
+## Documentation
 
-####Get informations about an user invitations:
+#### Get informations about an user invitations:
 
 ```py
 import eagleapi
