@@ -7,7 +7,27 @@ To use Eagle Api, we have to buy it on https://eagle-bot.ml/eagleapi/
 
 ## installation
 
-copy repository in the folder of your project
+In a command prompt, run this command:
+```
+pip3 install eagleapi
+```
+
+If it doesn't work, try all this commands,  maybe one can work
+```
+pip install eagleapi
+py -m pip install eagleapi
+python3 -m pip install eagleapi
+py -m pip3 install eagleapi
+python3 -m install eagleapi
+py3 -m pip install eagleapi
+py3 -m pip3 install eagleapi
+python -m pip install eagleapi
+python3 -m pip install eagleapi
+python-pip install eagleapi
+python3-pip install eagleapi
+python-pip3 install eagleapi
+python3-pip3 install eagleapi
+```
 
 
 ## Documentation
