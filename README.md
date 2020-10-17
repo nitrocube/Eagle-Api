@@ -17,9 +17,9 @@ copy repository in the folder of your project
 ```py
 import eagleapi
 
-membre = eagleApi.Invit_member(guild_id=560165986301640704, member_id=575012772526686208) #the bot Eagle need to be in your server, but now, he is not operational
+member = eagleApi.Invit_member(guild_id=560165986301640704, member_id=575012772526686208) #the bot Eagle need to be in your server, but now, he is not operational
 
-print(membre.nb_invites) #equivalent to print(membre.get_nb_invites())
+print(member.nb_invites) #equivalent to print(membre.get_nb_invites())
 
-print(membre.invited_by) #equivalent to print(membre.get_inviter())
+print(member.invited_by) #equivalent to print(membre.get_inviter())
 ```
